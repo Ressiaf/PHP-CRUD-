@@ -9,8 +9,8 @@
         'php_crud'
     );
 
-    #connection test 
-    if (isset($conn)){
-        echo 'DB is connected';
-    }
+    #Connection test 
+    // if (isset($conn)){
+    //     echo 'DB is connected';
+    // }
 ?>

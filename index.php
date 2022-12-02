@@ -27,13 +27,11 @@
                     <!-- Task description input -->
                     <div class="form-group">
                         <textarea 
-                        name="description" 
-                        rows="4"
-                        cols="10"
-                        class="form-control mt-4 text-secondary border border-dark" 
-                        placeholder="Task Description"
-                        />
-                        </textarea>
+                            name="description" 
+                            rows="8"
+                            class="form-control mt-4  border-dark" 
+                            placeholder="Task Description"
+                        ></textarea>
                     </div>
                     <input type="submit" class="btn btn-outline-dark btn-block py-8 mt-4" name="save_task" value="Save Task 📂">
                 </form>
